@@ -1,0 +1,11 @@
+pipeline{
+  aget any
+  stages{
+    stage('Demo'){
+      steps{
+        echo "more coming soon like..."
+      }
+    }
+  }
+}
+  
